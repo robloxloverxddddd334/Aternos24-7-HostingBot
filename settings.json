@@ -37,7 +37,7 @@
       ]
     },
     "chat-log": true,
-    "auto-reconnect": false,
+    
   
       "enabled": false,
       "min-interval": 20,
